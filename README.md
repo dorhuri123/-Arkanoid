@@ -21,3 +21,12 @@ The game implemented with Java language using Intellij IDEA Ultimate IDE, using 
 Option 1:<br>
 Clone the repository:<br>
 $ git clone https://github.com/dorhuri123/-Arkanoid
+add 4 spaces infront of the text 
+and github shows a copy button to copy that block
+
+Ex: in a README.md :
+
+    sudo apt update
+    sudo apt install snapd
+
+Now The above code has the copy button over it in Github
