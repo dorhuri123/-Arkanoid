@@ -19,6 +19,6 @@ The game implemented with Java language using Intellij IDEA Ultimate IDE, using 
 - Apache Ant
 # Installation
 Option 1:<br>
-Clone the repository:<br>
+1. Clone the repository:<br>
 
     $ git clone https://github.com/dorhuri123/-Arkanoid
