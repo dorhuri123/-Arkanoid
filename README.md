@@ -22,6 +22,3 @@ Option 1:<br>
 Clone the repository:<br>
 
     $ git clone https://github.com/dorhuri123/-Arkanoid
-    
-    sudo apt update
-    sudo apt install snapd
