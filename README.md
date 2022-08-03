@@ -23,4 +23,4 @@ Option 1:<br>
  
     $ git clone https://github.com/dorhuri123/-Arkanoid
     
-Install <a herf="https://ant.apache.org/bindownload.cgi" target="_blank">Apache Ant</a>
+Install [Apache Ant](https://ant.apache.org/bindownload.cgi)
