@@ -18,10 +18,27 @@ The game implemented with Java language using Intellij IDEA Ultimate IDE, using 
 - Keyboard that contains: Spacebar (for stoppage), "P" button, and all arrows.
 - Apache Ant
 # Installation
-Option 1:<br>
+## Option 1:
  Clone the repository:<br>
  
     $ git clone https://github.com/dorhuri123/-Arkanoid
     
 Install [Apache Ant](https://ant.apache.org/bindownload.cgi)<br>
 Open CMD/Git Bash in the cloned directory and run this command to enter the game manu:
+
+    $ ant run
+##   Option 2:
+Clone the repository:
+
+    $ git clone https://github.com/dorhuri123/-Arkanoid
+Open the project from an IDE such as Intellij, VS, etc.<br>
+Add the biu-oop.jar file as a global library to the Arkanoid project.<br>
+Make sure an updated jdk is set in the configuration for the manu to run on, and click play!
+
+# Instructions
+- Press 'Up' or 'Down' arrows to navigate through the manu.
+- Press 'Enter' to select an option\ to start a game.
+- Use the 'Left' and 'Right' arrows to control the paddle.
+- Press 'p' to pause.
+- Press 'Space' to re-enter the game.
+
