@@ -23,4 +23,5 @@ Option 1:<br>
  
     $ git clone https://github.com/dorhuri123/-Arkanoid
     
-Install [Apache Ant](https://ant.apache.org/bindownload.cgi)
+Install [Apache Ant](https://ant.apache.org/bindownload.cgi)<br>
+Open CMD/Git Bash in the cloned directory and run this command to enter the game manu:
